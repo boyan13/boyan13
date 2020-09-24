@@ -1,10 +1,10 @@
-### Hi there 👋, I'm Boyan
+### Hello, I'm Boyan
 #### Information technology student and a curious software developer.
 ![Information technology student and a curious software developer.](https://github.com/boyan13/boyan13/blob/master/profile_banner.jpg)
 
-I'm an IT student who enjoys learning for the sake of learning. I'm currently focusing on Python and C++ development, while also learning some game design.
+I'm a third year IT student who enjoys learning for the sake of learning. I'm currently focusing on Python and C++ development, while also learning some game design. My passion for learning is not limited to programming though. I've also taken courses in Ancient Egyptian language, 20-th century art, and religion. I also enjoy psychology, philosophy, mathematics, physics and any STEM field in general.
 
-Skills: Python / C++ / Java /HTML / CSS
+Skills: Python / C++ / Java / HTML / CSS
 
 - 🔭 I’m currently working on a Python-based cipher program. 
 - 🌱 I’m currently learning different Python libraries, using CMake and working with Source engine's SDK 2013 code base. 
