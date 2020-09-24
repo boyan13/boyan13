@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Boyan
 #### Information technology student and a curious software developer.
-![Information technology student and a curious software developer.](https://images.unsplash.com/photo-1516259762381-22954d7d3ad2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1366&q=80)
+![Information technology student and a curious software developer.](https://github.com/boyan13/boyan13/blob/master/banner.jpg)
 
 I'm an IT student who enjoys learning for the sake of learning. I'm currently focusing on Python and C++ development, while also learning some game design.
 
