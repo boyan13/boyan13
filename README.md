@@ -6,8 +6,8 @@ I'm a third year IT student who enjoys learning for the sake of learning. I'm cu
 
 Skills: Python / C++ / Java / HTML / CSS
 
-- 🔭 I’m currently working on a Python-based simple cipher program, with the purpose of learning a gui library and practising the MVC design pattern.
-- 🌱 I’m currently learning different Python libraries, using CMake and working with Source engine's SDK 2013 code base. 
+- 🔭 I’m currently working on a small Python ciphering app that should help me work on designing project architectures, applying design patterns, managing a gui, and  writing clean and *pythonic* code.
+- 🌱 I’m currently learning C# (and .NET) and trying to put more time into C++. I've also picked up Blender again.
 - 📫 How to reach me: bonev1313@gmail.com 
 - ⚡ Fun fact: Whenever I'm not programming, I'm working on a Half-Life Decay remake as a level designer: https://psr.digital/projects/2/ 
 
