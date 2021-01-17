@@ -4,10 +4,19 @@
 
 I'm a third year IT student who enjoys learning for the sake of learning. I'm currently focusing on Python and C++ development, while also learning some game design. My passion for learning is not limited to programming though. I've also taken courses in Ancient Egyptian language, 20-th century art, and religion. I also enjoy psychology, philosophy, mathematics, physics and any STEM field in general.
 
-Skills: Python / C++ / Java / HTML / CSS
+Skills: 
+Python / 
+Qt / 
+C++ / 
+Java /
+HTML / 
+CSS / 
+Databases / 
+Git / 
+Linux / 
 
-- 🔭 I’m currently working on a small Python ciphering app that should help me work on designing project architectures, applying design patterns, managing a gui, and  writing clean and *pythonic* code.
-- 🌱 I’m currently learning C# (and .NET) and trying to put more time into C++. I've also picked up Blender again.
+- 🔭 I’m currently working a lot with Python
+- 🌱 I’m currently learning C# (and .NET) and trying to put more time into C++.
 - 📫 How to reach me: bonev1313@gmail.com 
 - ⚡ Fun fact: Whenever I'm not programming, I'm working on a Half-Life Decay remake as a level designer: https://psr.digital/projects/2/ 
 
