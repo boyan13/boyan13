@@ -15,8 +15,8 @@ Databases /
 Git / 
 Linux / 
 
-- 🔭 I’m currently working a lot with Python
-- 🌱 I’m currently learning C# (and .NET) and trying to put more time into C++.
+- 🔭 I’m currently writing a Discord bot with discord.py!
+- 🌱 I’m currently learnig OpenGL and trying to do C++ projects.
 - 📫 How to reach me: bonev1313@gmail.com 
 - ⚡ Fun fact: Whenever I'm not programming, I'm working on a Half-Life Decay remake as a level designer: https://psr.digital/projects/2/ 
 
