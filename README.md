@@ -6,7 +6,7 @@ I'm a third year IT student who enjoys learning for the sake of learning. I'm cu
 
 Skills: 
 Python / 
-Qt / 
+PyQt / 
 C++ / 
 Java /
 HTML / 
