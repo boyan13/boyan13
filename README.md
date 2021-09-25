@@ -4,7 +4,9 @@
 
 I'm a currently in my senior year at university (majoring in Information Technologies). My interests spread beyond programming and computer science, I've taken courses in Ancient Egyptian, religion, 20th century art, and physics, as well as exploring other topics such as philosophy, psychology, branches of math, and literature on my own time.
 
-My skills include: 
+---
+
+#### My skills include: 
 
 Python / 
 PyQt / 
