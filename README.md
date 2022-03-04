@@ -5,6 +5,7 @@
 I'm currently a final year student at New Bulgarian University and am working on my B.S. Information Tecnologies thesis in the area of Quantum Error Correction. My interests spread beyond programming and computer science. I've studied Ancient Egyptian, religion, 20th century art, and branches of physics, and am actively exploring topics in philosophy and psychology, branches of math, and literature.
 
 I am currently employed at Antelope Audio.
+
 ---
 
 #### My skills include: 
