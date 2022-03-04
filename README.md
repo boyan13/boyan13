@@ -1,25 +1,26 @@
-### Hey!
-#### I'm Boyan, a software developer and a college student who is passionate about learning and knowledge! 
+### Hi!
+#### I'm Boyan, a software developer and a college student who is passionate about science and technology! 
 ![banner](https://github.com/boyan13/boyan13/blob/master/banner.png)
 
-I'm a currently in my senior year at university (majoring in Information Technologies). My interests spread beyond programming and computer science, I've taken courses in Ancient Egyptian, religion, 20th century art, and physics, as well as exploring other topics such as philosophy, psychology, branches of math, and literature on my own time.
+I'm currently a final year student at New Bulgarian University and am working on my B.S. Information Tecnologies thesis in the area of Quantum Error Correction. My interests spread beyond programming and computer science. I've studied Ancient Egyptian, religion, 20th century art, and branches of physics, and am actively exploring topics in philosophy and psychology, branches of math, and literature.
 
+I am currently employed at Antelope Audio.
 ---
 
 #### My skills include: 
 
 Python / 
-PyQt / 
+PyQt, NumPy / 
 C++ / 
 Java /
 HTML, CSS, JavaScript / 
-Databases / 
-Git, Subversion / 
-Windows, Linux, MacOs /
+Databases and SQL / 
+Git, SVN / 
+Windows, Linux, MacOS /
 PyCharm, VisualStudio, VSCode, Sublime TE, Notepad++, Eclipse
 
-* 🔭 I’m currently trying to code more outside of work.
-* 🌱 I’m currently focusing on sharpening my math skills (right now in the area of Calculus).
+* 🔭 I’m currently exploring qiskit and quantum computation.
+* 🌱 Right now I am focusing on quantum error correction and the surrounding theory.
 * 📫 How to reach me: bonev1313@gmail.com 
 * ⚡ Fun fact: Whenever I'm not programming, I'm working on a Half-Life Decay remake as a level designer: https://psr.digital/projects/2/ 
 
