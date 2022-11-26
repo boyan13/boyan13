@@ -17,7 +17,7 @@ I currently work at Antelope Audio and my knowledge stack includes:
 * I have experience with Source Engine - Check out my award winning map on the Garry's Mod workshop (https://steamcommunity.com/sharedfiles/filedetails/?id=1092251956)
 * I am part of the https://psr.digital/ developer.
 * I have beginner's experience with Unreal Engine and Blender, no notable projects yet
-* I have experience with Python's pygame, arcade, and curses modules, and C++'s SDL library and also have minimal/introductory experience with OpenGL.
+* I have experience with Python's pygame, arcade, and curses modules, C++'s SDL library, and also have minimal/introductory experience with OpenGL.
 
 ### Currently exploring
 * I am currently learning Qiskit and quantum computation in general.
