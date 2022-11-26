@@ -1,29 +1,29 @@
-### Hi!
-#### I'm Boyan, a software developer and a college student who is passionate about science and technology! 
+### Hello.
+#### My name's Boyan, I like software engineering and am passionate about all forms of STEM. In my free time I usually play games, work on personal projects, or read. I think we live in a complex and endlessly curious world and am always open to exploring new things, regardless of whether they have anything to do with programming or tech.
+
 ![banner](https://github.com/boyan13/boyan13/blob/master/banner.png)
 
-I'm currently a final year student at New Bulgarian University and am working on my B.S. Information Tecnologies thesis in the area of Quantum Error Correction. My interests spread beyond programming and computer science. I've studied Ancient Egyptian, religion, 20th century art, and branches of physics, and am actively exploring topics in philosophy and psychology, branches of math, and literature.
-
-I am currently employed at Antelope Audio.
+I currently work at Antelope Audio and my knowledge stack includes:
 
 ---
 
-#### My skills include: 
+### Programming
+* I mainly work with: Python (pandas, numpy, matplotlib, PyQt5/6, wxPyhton, curses, jupyter, Pillow, bs4, requests, sqlalchemy, django, sqlite) 
+* I have experience with: C++, Java, HTML, CSS, JS (no NodeJS), MySQL, SPARQL, Git, SVN
+* I have experience developing on Windows, Linux, MacOS, VirtrualBox, Windows Subsystem for Linux (WSL)
+* I have experience with the following IDEs and TEs: PyCharm, VisualStudio, VSCode, Sublime TE, Notepad++, Eclipse, vi  
 
-Python / 
-PyQt, NumPy / 
-C++ / 
-Java /
-HTML, CSS, JavaScript / 
-Databases and SQL / 
-Git, SVN / 
-Windows, Linux, MacOS /
-PyCharm, VisualStudio, VSCode, Sublime TE, Notepad++, Eclipse
+### Game development (level design + programming)
+* I have experience with Source Engine - Check out my award winning map on the Garry's Mod workshop (https://steamcommunity.com/sharedfiles/filedetails/?id=1092251956)
+* I am part of the https://psr.digital/ developer.
+* I have beginner's experience with Unreal Engine and Blender, no notable projects yet
+* I have experience with Python's pygame, arcade, and curses modules, and C++'s SDL library and also have minimal/introductory experience with OpenGL.
 
-* 🔭 I’m currently exploring qiskit and quantum computation.
-* 🌱 Right now I am focusing on quantum error correction and the surrounding theory.
-* 📫 How to reach me: bonev1313@gmail.com 
-* ⚡ Fun fact: Whenever I'm not programming, I'm working on a Half-Life Decay remake as a level designer: https://psr.digital/projects/2/ 
+### Currently exploring
+* I am currently learning Qiskit and quantum computation in general.
+
+---
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/boyan13)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/boyan_bonev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/boyan-bonev-788756209/)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/boyan13) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/boyan-bonev-788756209/)
