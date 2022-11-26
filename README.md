@@ -9,7 +9,7 @@ I currently work at Antelope Audio and my knowledge stack includes:
 
 ### Programming
 * I mainly work with Python. Here are some packages I use from time to time: pandas, numpy, matplotlib, PyQt5/6, wxPyhton, curses, jupyter, Pillow, bs4, requests, sqlalchemy, django, sqlite
-* I have experience with C++, Java, HTML, CSS, JS (no NodeJS), MySQL, SPARQL, Git, SVN, Jupyter Notebooks
+* I have experience with C++, Java, HTML, CSS, JS (no NodeJS), MySQL, SPARQL, Git, SVN, Jupyter Notebooks, minimal experience with cmd batch files and bash
 * I have experience developing on Windows, Linux, MacOS, VirtrualBox, Windows Subsystem for Linux (WSL)
 * I have experience with the following IDEs and TEs: PyCharm, VisualStudio, VSCode, Sublime TE, Notepad++, Eclipse, vi  
 
