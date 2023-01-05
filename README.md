@@ -1,7 +1,7 @@
 ### Hello.
 #### My name's Boyan, I'm a cs major and a software developer (among other things) and I'm passionate about all forms of knowledge. In my free time I usually play games, work on personal projects, or read. I think we live in a complex and endlessly curious world and am always open to exploring new things, regardless of whether they have anything to do with programming and tech.
 
-![banner](https://github.com/boyan13/boyan13/blob/master/banner.png)
+![banner](https://github.com/boyan13/boyan13/blob/master/image.jpg)
 
 I currently work at Antelope Audio and my knowledge stack includes:
 
