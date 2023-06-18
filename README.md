@@ -1,5 +1,5 @@
 ### Hi,
-#### I'm Boyan, nice to meet you! I'm a cs major and a software developer (among other things), currently employed at Antelope Audio. At my current job I work predominantly with Python and handle things like UI/UX integrations with hardware devices through HID and TB, maintenance and implementation of proprietary communication protocols, library development, and more. My unviersity work currently focuses on data science and machine learning (specifically support vector machines and quantum computation using qiskit).
+##### I'm Boyan, nice to meet you! I'm a cs major and a software developer (among other things), currently employed at Antelope Audio. At my current job I work predominantly with Python and handle things like UI/UX integrations with hardware devices through HID and TB, maintenance and implementation of proprietary communication protocols, library development, and more. My unviersity work currently focuses on data science and machine learning (specifically support vector machines and quantum computation using qiskit).
 
 ![banner](https://github.com/boyan13/boyan13/blob/master/image.jpg)
 
