@@ -1,25 +1,33 @@
-### Hello.
-#### My name's Boyan, I'm a cs major and a software developer (among other things) and I'm passionate about all forms of knowledge. In my free time I usually play games, work on personal projects, or read. I think we live in a complex and endlessly curious world and am always open to exploring new things, regardless of whether they have anything to do with programming and tech.
+### Hi,
+#### I'm Boyan, nice to meet you! I'm a cs major and a software developer (among other things), currently employed at Antelope Audio. At my current job I work predominantly with Python and handle things like UI/UX integrations with hardware devices through HID and TB, maintenance and implementation of proprietary communication protocols, library development, and more. My unviersity work currently focuses on data science and machine learning (specifically support vector machines and quantum computation using qiskit).
 
 ![banner](https://github.com/boyan13/boyan13/blob/master/image.jpg)
 
-I currently work at Antelope Audio and my knowledge stack includes:
+My knowledge stack includes:
 
 ---
 
-### Programming
-* I mainly work with Python. Here are some packages I use from time to time: pandas, numpy, matplotlib, PyQt5/6, wxPyhton, curses, jupyter, Pillow, bs4, requests, sqlalchemy, django, sqlite
-* I have experience with C++, Java, HTML, CSS, JS (no NodeJS), MySQL, SPARQL, Git, SVN, Jupyter Notebooks, minimal experience with cmd batch files and bash
-* I have experience developing on Windows, Linux, MacOS, VirtrualBox, Windows Subsystem for Linux (WSL)
-* I have experience with the following IDEs and TEs: PyCharm, VisualStudio, VSCode, Sublime TE, Notepad++, Eclipse, vi  
+### Languages
+* Profficient (C2) English
+* Upper Intermediate (B2) Spanish
+* Native Bulgarian 
+
+### Software Development
+* Main language: Python. Experience with the following libraries: pandas, numpy, matplotlib, scikit-learn, sympy, PyQt5/6, wxPyhton, curses, jupyter, Pillow, bs4, requests, sqlalchemy, django, sqlite
+* Other languages: C++, Java, Web technologies (HTML, CSS, JS (no NodeJS)), basic Lua, working knowledge of Bash, Powershell, Windows Command Line (CMD) 
+* Database tools: MySQL, SPARQL, SQLite
+* Version control tools: SVN, TortoiseSVN / Git, GitLab, GitHub 
+* Experience working on Windows, Ubuntu, MacOS, as well as the virtualization tools VirtrualBox, Windows Subsystem for Linux (WSL, WSL2)
+* Other experience: Jupyrter Notebooks and IPython, Jenkins, LaTeX
 
 ### Game development (level design + programming)
-* I have extensive experience with Source Engine's hammer world editor - Check out my award winning map on the Garry's Mod workshop (https://steamcommunity.com/sharedfiles/filedetails/?id=1092251956) and am part of the https://psr.digital/ developement group.
-* I have minimal experience with Unreal Engine and Blender and a bunch of coding projects with Python's pygame, arcade, and curses modules, and C++'s SDL library. I've also tried OpenGL so I know how to set it up, but all I did is draw a triangle so...
+* Extensive experience with Source Engine (mostly on the level design side through the hammer world editor). Also contributed to active mods of the game.
+* Some beginner experience with Unreal Engine 5 and Blender.
+* A bunch of coding projects with Python's pygame, arcade, and curses modules, as well as C++ with SDL. Basic understanding of OpenGL (not a lot of experience though).
 
 ### Currently exploring
-* I am currently learning Qiskit and quantum computation in general.
-* Also trying to get into Machine Learning.
+* Quantum computation (with Qiskit) and quantum advantage in the areas of machine learning (right now looking at quantum kernels).
+* Machine learning, classification and pattern recognition. Right now exploring Support Vector Machines.
 
 ---
 
