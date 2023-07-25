@@ -33,4 +33,4 @@ My knowledge stack includes:
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/boyan13) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/boyan-bonev-788756209/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ibm.svg' alt='credley', height='40'>](https://www.credly.com/users/boyan-bonev.e7bca9f3/badges)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/boyan13) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/boyan-bonev-788756209/) [<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ibm.svg)' alt='credley' height='40'>](https://www.credly.com/users/boyan-bonev.e7bca9f3/badges)
