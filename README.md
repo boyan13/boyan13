@@ -13,7 +13,7 @@ My knowledge stack includes:
 * Native Bulgarian 
 
 ### Software Development
-* Main language: Python. Experience with the following libraries: pandas, numpy, matplotlib, scikit-learn, sympy, PyQt5/6, wxPyhton, curses, jupyter, Pillow, bs4, requests, sqlalchemy, django, sqlite
+* Main language: Python. Experience with the following libraries: pandas, numpy, matplotlib, scikit-learn, sympy, PyQt5/6, wxPyhton, curses, jupyter, Pillow, bs4, requests, sqlalchemy, ctypes, pickle, django, sqlite
 * Other languages: C++, Java, Web technologies (HTML, CSS, JS (no NodeJS)), basic Lua, working knowledge of Bash, Powershell, Windows Command Line (CMD) 
 * Database tools: MySQL, SPARQL, SQLite
 * Version control tools: SVN, TortoiseSVN / Git, GitLab, GitHub 
