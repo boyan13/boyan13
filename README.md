@@ -19,7 +19,7 @@ My knowledge stack includes:
 * Version control tools: SVN, TortoiseSVN / Git, GitLab, GitHub 
 * Experience working on Windows, Ubuntu, MacOS, as well as the virtualization tools VirtrualBox, Windows Subsystem for Linux (WSL, WSL2)
 * Other experience: Jupyter Notebooks and IPython, Jenkins, LaTeX
-* Other tools: Wireshark, TightVNC
+* Other tools: Wireshark, TightVNC, Arta
 
 ### Game development (level design + programming)
 * Extensive experience with Source Engine (mostly on the level design side through the hammer world editor). Also contributed to active mods of the game.
