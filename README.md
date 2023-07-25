@@ -31,7 +31,7 @@ My knowledge stack includes:
 
 ---
 
-#### Links:
+**Links**:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/boyan13) &nbsp; &nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/boyan-bonev-788756209/) &nbsp; &nbsp; 
