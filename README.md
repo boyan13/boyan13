@@ -3,7 +3,7 @@
 
 ---
 
-##### I am currently employed at Antelope Audio. My current job involves developing desktop applications to interface with our hardware products (audio interfaces, midi controllers, etc) both locally and through LAN, writing automation scripts for our internal delivery process, contributing to our internal code libraries, advising and making architectural decisions regarding new projects at the software level (protocols, connectivity, etc).
+I am currently employed at Antelope Audio. My current job involves developing desktop applications to interface with our hardware products (audio interfaces, midi controllers, etc) both locally and through LAN, writing automation scripts for our internal delivery process, contributing to our internal code libraries, advising and making architectural decisions regarding new projects at the software level (protocols, connectivity, etc).
 
 ![banner](https://github.com/boyan13/boyan13/blob/master/image.jpg)
 
