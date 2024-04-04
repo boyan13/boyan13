@@ -1,5 +1,6 @@
 ### Hi,
-##### I'm Boyan, nice to meet you! I'm a cs major and a software developer (among other things), currently employed at Antelope Audio. At my current job I work predominantly with Python and handle things like UI/UX integrations with hardware devices through HID and TB, maintenance and implementation of proprietary communication protocols, library development, and more. My unviersity work currently focuses on data science and machine learning (specifically support vector machines and quantum computation using qiskit).
+##### I'm Boyan - a Computer Science graduate and software developer. Some of my interests include photography, cameras, and filmmaking, quantum computation, data science, and cybersecurity. I speak both English and Spanish and enjoy cultural exchange.
+##### I am currently employed at Antelope Audio. My current job involves developing desktop applications to interface with our hardware products (audio interfaces, midi controllers, etc) both locally and through LAN, writing automation scripts for our internal delivery process, contributing to our internal code libraries, advising and making architectural decisions regarding new projects at the software level (protocols, connectivity, etc).
 
 ![banner](https://github.com/boyan13/boyan13/blob/master/image.jpg)
 
@@ -13,23 +14,21 @@ My knowledge stack includes:
 * Native Bulgarian 
 
 ### Software Development
-* Main language: Python. Experience with the following libraries: pandas, numpy, matplotlib, scikit-learn, sympy, PyQt5/6, wxPyhton, curses, jupyter, Pillow, bs4, requests, sqlalchemy, ctypes, pickle, django, sqlite
-* Other languages: C++, Java, Web technologies (HTML, CSS, JS (no NodeJS)), basic Lua, working knowledge of Bash, Powershell, Windows Command Line (CMD) 
-* Database tools: MySQL, SPARQL, SQLite
-* Version control tools: SVN, TortoiseSVN / Git, GitLab, GitHub 
-* Experience working on Windows, Ubuntu, MacOS, as well as the virtualization tools VirtrualBox, Windows Subsystem for Linux (WSL, WSL2)
-* Other experience: Jupyter Notebooks and IPython, Jenkins, LaTeX
+* Main language: Python (Libraries: PyQt5/6, pickle, requests, pandas, numpy, matplotlib, scikit-learn, sympy, wxPyhton, curses, jupyter, Pillow, bs4, sqlalchemy, ctypes, , django, sqlite)
+* Other languages: Working knowledge of C++, Java, Web technologies (HTML, CSS, JS (no NodeJS)), Lua, Bash, Powershell, Windows Command Line (CMD) 
+* Databases: MySQL, SQLite, SPARQL
+* Version control: SVN and TortoiseSVN, Git (GitLab, GitHub) 
+* OS and virtualization: Windows, Linux (Ubuntu), MacOS. VirtrualBox, Windows Subsystem for Linux (WSL2)
+* Academia and research focused tools: Jupyter Notebooks and IPython, LaTeX
+* CI/CD tools: Jenkins, Redmine, automation through python and powershell/bash scripts 
 * Other tools: Wireshark, TightVNC, Arta
+* Quantum Computing: Experience with Qiskit (check credley link), basic understanding of QM.
 
 ### Game development (level design + programming)
-* Extensive experience with Source Engine (mostly on the level design side through the hammer world editor). Also contributed to active mods of the game.
-* Some beginner experience with Unreal Engine 5 and Blender.
-* A bunch of coding projects with Python's pygame, arcade, and curses modules, as well as C++ with SDL. Basic understanding of OpenGL (not a lot of experience though).
-
-### Currently exploring
-* Quantum computation (with Qiskit) and quantum advantage in the areas of machine learning (right now looking at quantum kernels).
-* Machine learning, classification and pattern recognition. Right now exploring Support Vector Machines.
-
+* Source Engine: Level design - Map sketching, Grayboxing, Combat choreography, Environmental design (with no ability to produce own assets). Refernce: https://steamcommunity.com/sharedfiles/filedetails/?id=2216764759 and https://steamcommunity.com/sharedfiles/filedetails/?id=1092251956
+* Programming: Projects with Python's pygame, arcade, and curses modules. Project with C++ using SDL lib.
+* Other: Intro experience with Unreal Engine 5, Blender, and shader programming with OpenGL.
+  
 ---
 
 **Links**: <br>
