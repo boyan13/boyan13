@@ -3,14 +3,14 @@
 
 ---
 
-I'm currently employed at Antelope Audio. My current job involves developing desktop applications to interface with our hardware products (audio interfaces, midi controllers, etc) both locally and through LAN, writing automation scripts for our internal delivery process, contributing to our internal code libraries, advising and making architectural decisions regarding new projects at the software level (protocols, connectivity, etc).
+I'm currently employed at Antelope Audio. My current job involves developing desktop applications that interface with our hardware devices (among which audio interfaces, hardware controllers, etc), writing automation scripts for our internal delivery process, contributing to internal code libraries, and advising and making architectural decisions regarding future projects at the software level (protocols, limitations, etc).
 
 ![banner](https://github.com/boyan13/boyan13/blob/master/image.jpg)
 
 My technological stack includes:
 
 ### Languages
-* Profficient (C2) English
+* Proficient (C2) English
 * Upper Intermediate (B2) Spanish
 * Native Bulgarian 
 
